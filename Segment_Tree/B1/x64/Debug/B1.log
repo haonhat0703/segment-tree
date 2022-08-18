@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\CP\IT\Segment_Tree\B1\main.cpp(7,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\CP\IT\Segment_Tree\B1\main.cpp(8,21): warning C4244: 'initializing': conversion from 'double' to 'll', possible loss of data
+  B1.vcxproj -> D:\CP\IT\Segment_Tree\x64\Debug\B1.exe

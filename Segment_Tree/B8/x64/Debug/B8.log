@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\CP\IT\Segment_Tree\B8\main.cpp(93,30): warning C4244: 'argument': conversion from 'll' to 'int', possible loss of data
+  B8.vcxproj -> D:\CP\IT\Segment_Tree\x64\Debug\B8.exe
